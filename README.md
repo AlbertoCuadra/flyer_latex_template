@@ -4,7 +4,7 @@ A Talk/seminar/event flyer using LaTeX
 # Preview
 
 <p align="left">
-    <img src="https://github.com/AlbertoCuadra/flyer_latex_template/blob/main/preview.svg" width="1400">
+    <img src="https://github.com/AlbertoCuadra/flyer_latex_template/blob/master/preview.svg" width="1400">
 </p>
 
 # Author
